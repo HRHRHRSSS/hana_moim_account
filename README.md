@@ -116,8 +116,11 @@
 ![59](https://github.com/user-attachments/assets/ad45aa1b-ee23-4080-9005-c7636792998a)
 
 ## 📍 시연
+### **📂 프로토타입_시연영상 > 🎬 영상** 다운로드하여 볼 수 있습니다
+
 ![60](https://github.com/user-attachments/assets/c7d94964-ed23-4f71-86f0-4469a7d66c45)
 ![61](https://github.com/user-attachments/assets/b171f4a0-7718-43cf-984b-d73156bbc719)
+
 
 ## 📍 기대효과
 ![62](https://github.com/user-attachments/assets/be1f579b-be0b-40d0-a346-3919fb37557c)
